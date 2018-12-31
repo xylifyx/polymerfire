@@ -1,0 +1,25 @@
+{
+  "name": "polymerfire",
+  "version": "2.2.1",
+  "authors": [
+    "Firebase"
+  ],
+  "description": "Polymer Web Components for Firebase",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "firebase"
+  ],
+  "main": "polymerfire.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/firebase/polymerfire",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "@polymer/polymer": "^3.1.0",
+    "@webcomponents/webcomponentsjs": "^2.2.1",
+    "firebase": "^5.7.2"
+  }
+}
